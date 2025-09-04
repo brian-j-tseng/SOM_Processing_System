@@ -20,7 +20,7 @@ The system was developed in two phases:
 
 ## System Architecture
 
-![](figure)
+![architecture](doc/architecture.png)
 
 Main modules:
 
