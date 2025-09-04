@@ -1,0 +1,88 @@
+Magic 271485
+Revision Verdi_S-2021.09
+
+; Window Layout <x> <y> <width> <height> <signalwidth> <valuewidth>
+viewPort 0 25 1920 1004 279 65
+
+; File list:
+; openDirFile [-d delimiter] [-s time_offset] [-rf auto_bus_rule_file] path_name file_name
+openDirFile -d / "" "/home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top.fsdb"
+
+; file time scale:
+; fileTimeScale ### s|ms|us|ns|ps
+
+; signal spacing:
+signalSpacing 5
+
+; windowTimeUnit is used for zoom, cursor & marker
+; waveform viewport range
+zoom 4920905.519287 103491165.000000
+cursor 81986500.000000
+marker 0.000000
+
+; user define markers
+; userMarker time_pos marker_name color linestyle
+; visible top row signal index
+top 0
+; marker line index
+markerPos 9
+
+; event list
+; addEvent event_name event_expression
+; curEvent event_name
+
+
+
+COMPLEX_EVENT_BEGIN
+
+
+COMPLEX_EVENT_END
+
+
+
+; toolbar current search type
+; curSTATUS search_type
+curSTATUS ByChange
+
+
+addGroup "G1"
+activeDirFile "" "/home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top.fsdb"
+addSignal -h 15 /top_tb/top/MIN_2_0/weight_c[23:0]
+addSignal -h 15 -UNSIGNED -UDEC /top_tb/top/GGontroller/RAM_RESULT_A[17:0]
+addSignal -h 15 -holdScope RAM_RESULT_WE
+addSignal -h 15 -UNSIGNED -UDEC -holdScope counter[17:0]
+addSignal -h 15 -holdScope done
+addSignal -h 15 /top_tb/top/RAM_W_OE
+addSignal -h 15 -holdScope RAM_W_WE
+addSignal -h 15 /top_tb/top/GGontroller/st[2:0]
+addSignal -h 15 -holdScope RAM_W_A[17:0]
+addGroup "G2"
+
+; getSignalForm Scope Hierarchy Status
+; active file of getSignalForm
+activeDirFile "" "/home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top.fsdb"
+
+GETSIGNALFORM_SCOPE_HIERARCHY_BEGIN
+getSignalForm close
+
+"/top_tb"
+"/top_tb/top"
+"/top_tb/top/GGontroller"
+"/top_tb/top/VEP7"
+
+SCOPE_LIST_BEGIN
+"/top_tb"
+"/top_tb/top"
+"/top_tb/top/MIN_2_0"
+"/top_tb/ram_w"
+"/top_tb/ram_result"
+"/top_tb/ram_if"
+"/top_tb/top/GGontroller"
+"/top_tb/top/USS_0"
+"/top_tb/top/VEP1"
+"/top_tb/top/VEP7"
+SCOPE_LIST_END
+
+GETSIGNALFORM_SCOPE_HIERARCHY_END
+
+

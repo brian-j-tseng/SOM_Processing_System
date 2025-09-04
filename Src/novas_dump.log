@@ -1,0 +1,269 @@
+LatestSupportedVersion: Xcelium20.9
+xmsim(64) 20.09-s007
+Linux 3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017 x86_64
+CPU cores: 16
+Limit information:
+======================================
+cputime			unlimited
+filesize		unlimited
+datasize		unlimited
+stacksize		8192 kbytes
+coredumpsize	0 kbytes
+memoryuse		unlimited
+vmemoryuse		unlimited
+descriptors		4096
+memorylocked	64 kbytes
+maxproc			4096
+======================================
+(Special)Runtime environment variables:
+
+Runtime environment variables:
+XMODIFIERS=@im=none
+USER=vlsi2299
+LOGNAME=vlsi2299
+HOME=/home/user2/vlsi22/vlsi2299
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/cad/Sigasi/eclipse:/usr/cad/Sigasi/eclipse/cur:/opt/RISCV/bin:/usr/cad/HOY/BRAINS/cur/bin:/usr/cad/mentor/Tessent/cur/bin:/usr/cad/mentor/calibre/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/JASPER/cur/bin:/usr/cad/cadence/CTOS/cur/tools.lnx86/bin:/usr/cad/cadence/MMSIM/cur/tools/dfII/bin:/usr/cad/cadence/MMSIM/cur/tools/bin:/usr/cad/cadence/IC/cur/tools/dfII/bin:/usr/cad/cadence/IC/cur/tools/dracula/bin:/usr/cad/cadence/IC/cur/tools/bin:/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools/bin/64bit:/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools/bin:/usr/cad/cadence/INCISIV/cur/tools/bin:/usr/cad/cadence/INCISIV/cur/tools/vtools/vfault/bin:/usr/cad/cadence/INCISIV/cur/tools/dfII/bin:/usr/cad/cadence/EDI/cur/tools/celtic/bin:/usr/cad/cadence/EDI/cur/tools/plato/bin:/usr/cad/cadence/EDI/cur/tools/dfII/bin:/usr/cad/cadence/EDI/cur/tools/fe/bin:/usr/cad/cadence/EDI/cur/tools/cdsdoc/bin:/usr/cad/cadence/EDI/cur/tools/bin:/usr/cad/cadence/EDI/cur//tools/tlfUtil/bin:/usr/cad/cadence/INNOVUS/cur/tools/celtic/bin:/usr/cad/cadence/INNOVUS/cur/tools/plato/bin:/usr/cad/cadence/INNOVUS/cur/tools/dfII/bin:/usr/cad/cadence/INNOVUS/cur/tools/bin:/usr/cad/cadence/INNOVUS/cur//tools/tlfUtil/bin:/usr/cad/synopsys/tmax/cur/bin:/usr/cad/synopsys/spyglass/cur/SPYGLASS_HOME/bin:/usr/bin/X11:/usr/cad/synopsys/coreconsultant/cur/bin:/usr/cad/synopsys/verdi/cur/bin:/usr/cad/synopsys/verdi/cur/nLint/bin:/usr/bin/X11:/usr/cad/synopsys/primetime/cur/amd64/syn/bin:/usr/bin/X11:/usr/cad/synopsys/primerail/cur/amd64/syn/bin:/usr/cad/synopsys/adp/cur/bin:/usr/cad/synopsys/laker_oa/cur/bin:/usr/cad/synopsys/icvalidator/cur/bin/LINUX64_L31el:/usr/cad/synopsys/star-rcxt/cur/amd64_starrc/bin:/usr/cad/synopsys/laker/cur/bin:/usr/cad/synopsys/customexplorer/cur/bin:/usr/cad/synopsys/hspice/cur/hspice/bin:/usr/cad/synopsys/hspice/cur/hspice/GNU/linux64/gcc/bin:/usr/cad/synopsys/hspice/cur/hspice/linux64:/usr/bin:/usr/ucb/bin:/usr/cad/synopsys/customcompiler/cur/bin:/usr/bin/X11:/usr/cad/synopsys/coreConsultant/cur/bin:/usr/cad/synopsys/synthesis/cur/amd64/syn/bin:/usr/cad/synopsys/lc/cur/bin:/usr/cad/synopsys/lc/cur/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/cad/synopsys_sun/dw_home/cur/bin
+MAIL=/var/spool/mail/vlsi2299
+SHELL=/bin/tcsh
+SSH_CLIENT=192.168.1.26 33980 22
+SSH_CONNECTION=192.168.1.26 33980 192.168.100.6 22
+SSH_TTY=/dev/pts/23
+TERM=xterm
+DISPLAY=localhost:27.0
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SELINUX_USE_CURRENT_RANGE=
+XDG_SESSION_ID=5219
+XDG_RUNTIME_DIR=/run/user/1284
+HOSTTYPE=x86_64-linux
+VENDOR=unknown
+OSTYPE=linux
+MACHTYPE=x86_64
+SHLVL=1
+PWD=/home/user2/vlsi22/vlsi2299/Lab7/Lab7_2
+GROUP=student
+HOST=vlsicad6
+REMOTEHOST=192.168.1.26
+HOSTNAME=vlsicad6
+LS_COLORS=no=00:fi=00:di=00;34;01:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LM_LICENSE_FILE=5280@vlsicad8:26000@lscic:1717@lshc:1717@lstn:1717@lstc:1717@lsncku:5280@lstn:26585@lstn:26585@lstc:26585@lshc:26585@lsncku:26585@lscic
+SYNOPSYS_LC_ROOT=/usr/cad/synopsys/lc/cur
+SYNTHESIS=/usr/cad/synopsys/synthesis/cur
+SYN_MAN_DIR=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+MANPATH=/usr/cad/synopsys/synthesis/cur/doc/syn/man:/usr/cad/synopsys/coreconsultant/cur/doc/dware/man
+installdir=/usr/cad/synopsys/hspice/cur/hspice
+CMIARCH=RH_64
+mraarch=linux_64
+TMIARCH=RH_64
+HSP_HOME=/usr/cad/synopsys/hspice/cur/hspice
+SNPS_PLATFORM=linux64
+HSP_GCC=/usr/cad/synopsys/hspice/cur/hspice/GNU/linux64/gcc/bin/gcc -m64 
+SNPS_64=1
+HSP_GCC_VERSION=5.2.0
+LD_LIBRARY_PATH=/usr/lib:/usr/lib64:/lib:/lib64:/usr/local/systemc/cur/lib-linux64:/usr/local/systemc/systemc-2.3.1/lib-linux64::/usr/cad/cadence/CTOS/cur/tools.lnx86/lib:/usr/cad/cadence/MMSIM/cur/tools/lib:/usr/cad/cadence/IC/cur/tools/lib:/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools/lib/64bit:/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools/lib64:/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools/lib:/usr/cad/cadence/INCISIV/cur/tools/lib:/usr/cad/cadence/INCISIV/cur/tools/vtools/vfault/lib:/usr/cad/cadence/EDI/cur//tools/tlfUtil/lib:/usr/cad/cadence/INNOVUS/cur//tools/tlfUtil/lib:/usr/cad/synopsys/verdi/cur/etc/lib/libstdc++/LINUX64/:/usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX64/://usr/cad/synopsys/hspice/cur/hspice/linux64/interfaces
+CDS_LOAD_ENV=CSF
+Laker_TCL_L3=1
+Laker_TCL_ToolBox=1
+SC_HLPPATH=/usr/cad/synopsys/laker_oa/cur
+ICV_HOME_DIR=/usr/cad/synopsys/icvalidator/cur
+SYNOPSYS_SYSTYPE=LINUX64_L31el
+XAPPLRESDIR=/usr/cad/synopsys/icvalidator/cur/app-defaults
+XKEYSYMDB=/usr/cad/synopsys/icvalidator/cur/lib-u/X11/XKeysymDB
+XNLSPATH=/usr/cad/synopsys/icvalidator/cur/lib-u/X11/nls
+PRIMERAIL=/usr/cad/synopsys/primerail/cur
+PRIMETIME=/usr/cad/synopsys/primetime/cur
+SHLIB_PATH=/usr/cad/synopsys/verdi/cur/etc/lib/libstdc++/LINUX64/
+SOFT_MAN_DIR=/usr/cad/synopsys/coreconsultant/cur/doc/dware/man
+DESIGNWARE_HOME=/cad/synopsys_sun/dw_home/cur
+SG_HTML_BROWSER=/usr/bin/mozilla
+EDITOR=/usr/bin/vim
+SYNOPSYS_TMAX=/usr/cad/synopsys/tmax/cur
+ENCOUNTER=/usr/cad/cadence/EDI/cur/tools/fe
+CDS_AUTO_64BIT=ALL
+CDS_Netlisting_Mode=Analog
+MGC_HOME=/usr/cad/mentor/calibre/cur
+MGC_TMPDIR=/tmp
+MGC_LOCATION_MAP=NO_MAP
+HOY_LIC_FILE=4141@lscic
+VERIFIC_LICENSE_FILE=/usr/cad/HOY/BRAINS/cur/../../CIC/Verific.dat
+LANG=en_US.utf8
+_XRUNROOT_=/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools
+_IRUNROOT_=/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools
+CDS_ARCH=lnx86
+XMRUNMODE=xmverilog:./xcelium.d/run.lnx8664.20.09.d
+XRUNBATCH=FALSE
+AMS_LOG_FILE_NAME=xmverilog.log
+IMPERAS_PORT_FILE=.vsp_ovp_gdb_port
+TCL_LIBRARY=/usr/cad/cadence/XCELIUM/XCELIUM_20.09.007/tools/inca/files/tcl/library
+Runtime command line arguments:
+argv[0]=xmverilog
+argv[1]=top_tb.v
+argv[2]=+access+r
+argv[3]=+define+FSDB+FULL
+103 profile - 100
+          CPU/Mem usage: 0.070 sys,  0.320 user,  232.38M sys,  0.00M vm
+104 VC callback profile - scalar:0 vector:0
+105 Fri Apr 29 15:44:27 2022
+106 pliAppInit
+107 FSDB_GATE is disabled.
+108 Enable Parallel Dumping.
+109 pliAppMiscSet: New Sim Round
+110 pliEntryInit
+111 LIBSSCORE=found /usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX64/libsscore_xcelium.so through $LD_LIBRARY_PATH setting.
+112 argv[0]: top.fsdb
+113 argv[0]: +struct
+114 argv[1]: +mda
+115 argv[2]: (handle)0x4dd8098 top_tb.top
+116 argv[0]: +struct
+117 argv[1]: +mda
+118 argv[2]: (handle)0x4dd8078 top_tb.ram_if
+119 argv[0]: +struct
+120 argv[1]: +mda
+121 argv[2]: (handle)0x4dd8098 top_tb.ram_w
+122 argv[0]: +struct
+123 argv[1]: +mda
+124 argv[2]: (handle)0x4dd8078 top_tb.ram_result
+125 FSDB Dumper for Xcelium, Release Verdi_S-2021.09, Linux x86_64/64bit, 08/29/2021
+126 (C) 1996 - 2021 by Synopsys, Inc.
+127 sps_call_fsdbDumpfile at 0 : /home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top_tb.v(505)
+128 argv[0]: top.fsdb
+129 *Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+130 *Verdi* : Create FSDB file 'top.fsdb'
+131 sps_call_fsdbDumpvars at 0 : /home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top_tb.v(506)
+132 argv[0]: +struct
+133 argv[1]: +mda
+134 argv[2]: (handle)0x4dd8098 top_tb.top
+135 *Verdi* : Begin traversing the scope (top_tb.top), layer (0).
+136 *Verdi* : Enable +struct and +mda dumping.
+137 *Verdi* : End of traversing.
+138 fsdbDumpvars traverse var: profile - 
+          CPU/Mem usage: 0.110 sys,  0.520 user,  333.21M sys,  0.00M vm
+                   incr: 0.010 sys,  0.050 user,  9.00M sys,  0.00M vm
+                   accu: 0.010 sys,  0.050 user,  9.00M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.050 user,  9.00M sys,  0.00M vm
+
+          Count usage: 1338 var,  1051 idcode,  1051 callback
+                 incr: 1338 var,  1051 idcode,  1051 callback
+                 accu: 1338 var,  1051 idcode,  1051 callback
+            accu incr: 1338 var,  1051 idcode,  1051 callback
+139 VC callback profile - scalar:0 vector:0
+140 Fri Apr 29 15:44:27 2022
+141 fsdbDumpvars: profile - 
+          CPU/Mem usage: 0.110 sys,  0.520 user,  334.41M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  1.19M sys,  0.00M vm
+                   accu: 0.010 sys,  0.050 user,  10.19M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  1.19M sys,  0.00M vm
+
+          Count usage: 1338 var,  1051 idcode,  1051 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 1338 var,  1051 idcode,  1051 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+142 VC callback profile - scalar:18 vector:1033
+143 Fri Apr 29 15:44:27 2022
+144 sps_call_fsdbDumpvars at 0 : /home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top_tb.v(507)
+145 argv[0]: +struct
+146 argv[1]: +mda
+147 argv[2]: (handle)0x4dd80c8 top_tb.ram_if
+148 *Verdi* : Begin traversing the scope (top_tb.ram_if), layer (0).
+149 *Verdi* : Enable +struct and +mda dumping.
+150 *Verdi* : End of traversing.
+151 fsdbDumpvars traverse var: profile - 
+          CPU/Mem usage: 0.120 sys,  1.010 user,  341.94M sys,  0.00M vm
+                   incr: 0.010 sys,  0.480 user,  7.53M sys,  0.00M vm
+                   accu: 0.010 sys,  0.480 user,  7.53M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.480 user,  7.53M sys,  0.00M vm
+
+          Count usage: 62786 var,  62494 idcode,  62495 callback
+                 incr: 61448 var,  61443 idcode,  61444 callback
+                 accu: 61448 var,  61443 idcode,  61444 callback
+            accu incr: 61448 var,  61443 idcode,  61444 callback
+152 VC callback profile - scalar:18 vector:1033
+153 Fri Apr 29 15:44:28 2022
+154 fsdbDumpvars: profile - 
+          CPU/Mem usage: 0.120 sys,  1.120 user,  345.35M sys,  0.00M vm
+                   incr: 0.000 sys,  0.110 user,  3.42M sys,  0.00M vm
+                   accu: 0.010 sys,  0.590 user,  10.95M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.110 user,  3.42M sys,  0.00M vm
+
+          Count usage: 62786 var,  62494 idcode,  62495 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 61448 var,  61443 idcode,  61444 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+155 VC callback profile - scalar:21 vector:62478
+156 Fri Apr 29 15:44:28 2022
+157 sps_call_fsdbDumpvars at 0 : /home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top_tb.v(508)
+158 argv[0]: +struct
+159 argv[1]: +mda
+160 argv[2]: (handle)0x4dd80f8 top_tb.ram_w
+161 *Verdi* : Begin traversing the scope (top_tb.ram_w), layer (0).
+162 *Verdi* : Enable +struct and +mda dumping.
+163 *Verdi* : End of traversing.
+164 fsdbDumpvars traverse var: profile - 
+          CPU/Mem usage: 0.130 sys,  1.580 user,  353.94M sys,  0.00M vm
+                   incr: 0.010 sys,  0.460 user,  8.59M sys,  0.00M vm
+                   accu: 0.010 sys,  0.460 user,  8.59M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.460 user,  8.59M sys,  0.00M vm
+
+          Count usage: 124234 var,  123937 idcode,  123939 callback
+                 incr: 61448 var,  61443 idcode,  61444 callback
+                 accu: 61448 var,  61443 idcode,  61444 callback
+            accu incr: 61448 var,  61443 idcode,  61444 callback
+165 VC callback profile - scalar:21 vector:62478
+166 Fri Apr 29 15:44:28 2022
+167 fsdbDumpvars: profile - 
+          CPU/Mem usage: 0.140 sys,  1.690 user,  357.49M sys,  0.00M vm
+                   incr: 0.010 sys,  0.110 user,  3.56M sys,  0.00M vm
+                   accu: 0.020 sys,  0.570 user,  12.14M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.110 user,  3.56M sys,  0.00M vm
+
+          Count usage: 124234 var,  123937 idcode,  123939 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 61448 var,  61443 idcode,  61444 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+168 VC callback profile - scalar:24 vector:123923
+169 Fri Apr 29 15:44:28 2022
+170 sps_call_fsdbDumpvars at 0 : /home/user2/vlsi22/vlsi2299/Lab7/Lab7_2/top_tb.v(509)
+171 argv[0]: +struct
+172 argv[1]: +mda
+173 argv[2]: (handle)0x4dd8128 top_tb.ram_result
+174 *Verdi* : Begin traversing the scope (top_tb.ram_result), layer (0).
+175 *Verdi* : Enable +struct and +mda dumping.
+176 *Verdi* : End of traversing.
+177 fsdbDumpvars traverse var: profile - 
+          CPU/Mem usage: 0.150 sys,  2.160 user,  369.23M sys,  0.00M vm
+                   incr: 0.010 sys,  0.470 user,  11.73M sys,  0.00M vm
+                   accu: 0.010 sys,  0.470 user,  11.73M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.470 user,  11.73M sys,  0.00M vm
+
+          Count usage: 185682 var,  185380 idcode,  185383 callback
+                 incr: 61448 var,  61443 idcode,  61444 callback
+                 accu: 61448 var,  61443 idcode,  61444 callback
+            accu incr: 61448 var,  61443 idcode,  61444 callback
+178 VC callback profile - scalar:24 vector:123923
+179 Fri Apr 29 15:44:29 2022
+180 fsdbDumpvars: profile - 
+          CPU/Mem usage: 0.160 sys,  2.270 user,  373.79M sys,  0.00M vm
+                   incr: 0.010 sys,  0.110 user,  4.57M sys,  0.00M vm
+                   accu: 0.020 sys,  0.580 user,  16.30M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.110 user,  4.57M sys,  0.00M vm
+
+          Count usage: 185682 var,  185380 idcode,  185383 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 61448 var,  61443 idcode,  61444 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+181 VC callback profile - scalar:27 vector:185368
+182 Fri Apr 29 15:44:29 2022
+183 *Verdi* FSDB: For performance reasons, the Memory Size Limit has been increased to 128M.
+184 End of simulation at 102468500
+185 VC callback profile - scalar:532684 vector:60586029
+186 Fri Apr 29 15:45:33 2022
+187 Begin FSDB profile info:
+188 FSDB Writer : bc1(532684) bcn(60586029) mtf/stf(0/3)
+FSDB Writer elapsed time : flush(17.655033) io wait(0.000000) theadpool wait(0.000000)
+FSDB Writer cpu time : MT Compression : 0
+189 End FSDB profile info
+190 Parallel profile    -  Flush:6 Expand:1 ProduceWait:0 ConsumerWait:345 BlockUsed:495
+191                        ProduceTime:68.456065074 ConsumerTime:31.816846694 Buffer:96MB
+192 SimExit
+193 Sim process exit
